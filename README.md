@@ -1,0 +1,2 @@
+# sgminer
+mining program 
